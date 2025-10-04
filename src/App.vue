@@ -23,7 +23,7 @@
             img="https://cdn.pixabay.com/photo/2016/07/29/10/51/watermelon-1552497_1280.jpg"
         >
             可以设置标题、副标题、图片与内容<br /><a
-                href="https://github.com/DanoAndHolidays"
+                href="https://github.com/DanoAndHolidays/dano-ui"
                 target="_blank"
                 style="color: #fd9f7e"
                 >文档地址</a

@@ -1,6 +1,7 @@
 # dano-ui
 
 CSS 弯曲外部卡片带悬停效果的 vue 组件
+[项目地址](https://github.com/DanoAndHolidays/dano-ui)
 ![[展示动图]](/show.gif)
 
 下载
